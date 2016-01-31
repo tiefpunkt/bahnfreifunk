@@ -2,6 +2,8 @@
 ## What is Bahn Freifunk?
 The german rail company "Deutsche Bahn" has free wifi internet access in the first class coaches of their ICE trains. The intention of Bahn Freifunk is to easily share this free internet access with passengers in second class coaches.
 
+If think that's cool, but you don't want to do all this script and building stuff, there are ready made images over at https://wiki.munichmakerlab.de/wiki/Bahn_Freifunk
+
 ## What does the stuff in this repository do?
 This repository contains two scripts and a bunch of configuration required to achieve the above, and it allows you to build your own firmware for Bahn Freifunk.
 
