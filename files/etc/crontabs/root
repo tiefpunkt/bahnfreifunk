@@ -1,0 +1,2 @@
+* * * * * /root/connectionCheckAndConnect.sh > /dev/null
+*/2 * * * * /root/sendStatus.sh > /dev/null
