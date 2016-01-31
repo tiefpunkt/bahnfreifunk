@@ -15,7 +15,7 @@ downloadImagebuilder() {
 	mv OpenWrt-ImageBuilder-15.05-ar71xx-generic.Linux-x86_64 $IMAGEBUILDER_DIR
 }
 
-if [ ! -d "$DIRECTORY" ]; then
+if [ ! -d "$IMAGEBUILDER_DIR" ]; then
 	echo "Image builder not found. Downloading..."
 	downloadImagebuilder
 fi
